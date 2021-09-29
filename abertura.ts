@@ -1,5 +1,5 @@
-function imprimir(algo:string) {
-    console.log(algo)
-}
+// function imprimir(algo:string) {
+//     console.log(algo)
+// }
 
-imprimir('Teste Type')
+// imprimir('Teste Type')
