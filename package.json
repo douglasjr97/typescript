@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/douglasjr97/typescript/issues"
   },
-  "homepage": "https://github.com/douglasjr97/typescript#readme"
+  "homepage": "https://github.com/douglasjr97/typescript#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
